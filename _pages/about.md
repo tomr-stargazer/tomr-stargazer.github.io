@@ -13,6 +13,8 @@ Education and Mentoring Specialist at the American Astronomical Society
 
 Hi! I'm Tom. This web page is a work in progress.
 
+Dr. Tom Rice is the lead Education staff member at the American Astronomical Society. He organizes the AAS's engagement with educator programs and coordinates the activities of its Education Committee, which has subcommittees on (1.) public outreach, (2.) introductory astronomy, (3.) undergraduate major and graduate education, and (4.) careers beyond academia. Dr. Rice stewards AAS's partnership projects in collaboration with other societies such as the Physics & Astronomy Faculty Teaching Insitute, the Inclusive Graduate Education Network, and TEAM-UP Together. In astrophysics research, Dr. Rice studies the birth of stars and planets with infrared and radio telescopes. He worked as a scientist-educator in New York City and Michigan for several years before joining the AAS. Dr. Rice comes from a Deaf family and is a native signer of American Sign Language. 
+
 <!-- Before joining AAS, I taught at Columbia University for three years. -->
 
 <!--
